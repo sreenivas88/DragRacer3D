@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pixel Toyota Corolla e80
+* source:	https://sketchfab.com/3d-models/pixel-toyota-corolla-e80-c3934654b450432d899ea1f692efb0dc
+* author:	Jpegger (https://sketchfab.com/Jpegger)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pixel Toyota Corolla e80" (https://sketchfab.com/3d-models/pixel-toyota-corolla-e80-c3934654b450432d899ea1f692efb0dc) by Jpegger (https://sketchfab.com/Jpegger) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

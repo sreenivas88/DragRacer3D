@@ -1,0 +1,6 @@
+for setup 
+ > npm install <
+
+and do 
+> npm run build <
+for running
